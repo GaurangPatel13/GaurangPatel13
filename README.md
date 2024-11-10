@@ -47,8 +47,8 @@ Apart from coding, I’ve gained practical experience in sales through a role in
 
 ### 📫 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gaurang-patel-8164492a3/))
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gaurangp69@gmail.com)
 
 ---
 
