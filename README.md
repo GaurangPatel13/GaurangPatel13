@@ -1,4 +1,6 @@
-![Gaurang Patel's GitHub Banner](https://via.placeholder.com/800x200?text=Welcome+to+Gaurang+Patel's+GitHub+Profile!+🌐)
+
+![DALL·E 2024-11-10 16 46 00 - Create a 16_9 banner for LinkedIn and GitHub profiles for Gaurang Patel, a MERN Stack Developer, featuring a clean, professional, and tech-focused des](https://github.com/user-attachments/assets/5bc0b9d9-338f-49c6-89ec-f3a67f8ffbe1)
+
 
 # Hi there, I'm Gaurang Patel! 👋
 
