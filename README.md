@@ -36,6 +36,7 @@ I'm a **Web Developer** and **MERN Stack Enthusiast** passionate about building 
 
 ### 🚀 **Currently Working On**
 
+- **NexaChain Core Pvt. Ltd.** as a **React JS Developer**
 - Preparing for a **Junior React JS Developer** interview at **Maitretech Solution**
 - Seeking new opportunities as a **MERN Stack Developer**
 
